@@ -14,3 +14,4 @@ if (is_palindrome($str)) {
     echo "$str is not a palindrome";
 }
 ?>
+ 

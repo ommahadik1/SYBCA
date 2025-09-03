@@ -12,3 +12,4 @@ function sum_recursive($n) {
 $n = 5;
 echo "Sum of first $n numbers is " . sum_recursive($n);
 ?>
+ 

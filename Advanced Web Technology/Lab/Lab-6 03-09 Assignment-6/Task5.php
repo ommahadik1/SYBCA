@@ -1,4 +1,4 @@
-<!-- Write a PHP code to accept sentence from user as “MIT-World Peace University” and split the sentence in four parts. -->
+<!--  Write a PHP code to accept sentence from user as “MIT-World Peace University” and split the sentence in four parts. -->
 
 <?php
 $sentence = "MIT-World Peace University";

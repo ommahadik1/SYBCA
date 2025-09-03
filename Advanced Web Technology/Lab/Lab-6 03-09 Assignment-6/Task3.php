@@ -1,4 +1,4 @@
-<!--Write a PHP program to accept sentence from user and count number of vowels, consonants, digits and special symbols from it using regular expression. -->
+<!-- Write a PHP program to accept sentence from user and count number of vowels, consonants, digits and special symbols from it using regular expression. -->
 
 <?php
 $sentence = "MIT-World Peace University 2025!";

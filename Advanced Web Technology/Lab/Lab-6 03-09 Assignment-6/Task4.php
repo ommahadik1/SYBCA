@@ -5,3 +5,4 @@ $original = "I love MIT-World Peace University!";
 $replaced = preg_replace('/MIT-World Peace University/', 'MIT-WPU', $original);
 echo $replaced;
 ?>
+ 

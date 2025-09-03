@@ -7,3 +7,4 @@ $date = DateTime::createFromFormat('d-m-Y', $join_date);
 $month = $date->format('F');
 echo "$name joined in $month";
 ?>
+ 
