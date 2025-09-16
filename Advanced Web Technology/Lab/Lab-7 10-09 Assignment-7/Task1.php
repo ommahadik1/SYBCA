@@ -4,7 +4,7 @@ $numbers = array(1,2,3,4,5,6,7,8,9,10);
 // Display the original array
 echo "Original Array: ";
 foreach ($numbers as $num) {
-    echo $num . " ";
+    echo $num . " ";    
 }
 echo "\n";
 
