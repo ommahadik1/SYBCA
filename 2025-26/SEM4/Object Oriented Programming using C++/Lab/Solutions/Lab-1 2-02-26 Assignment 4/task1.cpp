@@ -13,7 +13,7 @@ void checkCharacter(char ch)
     }
     else if (ch >= '0' && ch <= '9')
     {
-        cout << ch << " is a Digit." << endl;
+          cout << ch << " is a Digit." << endl;
     }
     else
     {
